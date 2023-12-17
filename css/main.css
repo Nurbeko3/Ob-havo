@@ -1,0 +1,30 @@
+body {
+    background-color: cadetblue;
+}
+
+
+.title{
+    width: 280px;
+    padding: 10px 0;
+    text-align: center;
+    margin: 0 auto;
+    background-color: white;
+    border-radius: 20px;
+}
+
+.maindiv {
+    background-color: white;
+    width: 480px;
+    border-radius: 20px;
+margin: 100px auto;
+}
+.quyosh {
+    display: inline-block;
+    text-align: center;
+    width: 220px;
+}
+.bulut {
+    display: inline-block;
+    text-align: center;
+width: 220px;
+}
